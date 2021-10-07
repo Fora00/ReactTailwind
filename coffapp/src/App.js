@@ -19,6 +19,9 @@ function App() {
         <div className="m-6 border-8 rounded-full bg-black text-center hover:bg-white hover:text-black hover:border-black ">
           <p className="uppercase"> Hello again </p>
         </div>
+        <div className=" hover:text-10xl">
+          <h4 className="bg-primary">I use customs</h4>
+        </div>
       </div>
     </div>
   );
